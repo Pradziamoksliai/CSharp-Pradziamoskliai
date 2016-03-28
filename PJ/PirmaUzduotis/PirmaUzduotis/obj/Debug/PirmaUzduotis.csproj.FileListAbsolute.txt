@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\PirmaUzduotis.exe.config
+C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\PirmaUzduotis.exe
+C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\bin\Debug\PirmaUzduotis.pdb
+C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.Form1.resources
+C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.exe
+C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.pdb
+C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.Form2.resources
+C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoksliai\PJ\PirmaUzduotis\PirmaUzduotis\bin\Debug\PirmaUzduotis.exe.config
+C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoksliai\PJ\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.exe
+C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoksliai\PJ\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.pdb
