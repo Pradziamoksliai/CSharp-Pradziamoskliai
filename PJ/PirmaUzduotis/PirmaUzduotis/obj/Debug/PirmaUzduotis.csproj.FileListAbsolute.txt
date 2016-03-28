@@ -7,7 +7,4 @@ C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\D
 C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.csproj.GenerateResource.Cache
 C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.exe
 C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.pdb
-C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.Form2.resources
-C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoksliai\PJ\PirmaUzduotis\PirmaUzduotis\bin\Debug\PirmaUzduotis.exe.config
-C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoksliai\PJ\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.exe
-C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoksliai\PJ\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.pdb
+C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.Form3.resources
