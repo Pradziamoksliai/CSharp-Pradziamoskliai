@@ -8,3 +8,13 @@ C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\D
 C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.exe
 C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.pdb
 C:\Users\Lenovo\Desktop\Projects\PirmaUzduotis\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.Form3.resources
+C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoskliai\PJ\PirmaUzduotis\PirmaUzduotis\bin\Debug\PirmaUzduotis.exe.config
+C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoskliai\PJ\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.exe
+C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoskliai\PJ\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.pdb
+C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoskliai\PJ\PirmaUzduotis\PirmaUzduotis\bin\Debug\PirmaUzduotis.exe
+C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoskliai\PJ\PirmaUzduotis\PirmaUzduotis\bin\Debug\PirmaUzduotis.pdb
+C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoskliai\PJ\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoskliai\PJ\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.Form1.resources
+C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoskliai\PJ\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.Form3.resources
+C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoskliai\PJ\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual\CSharp-Pradziamoskliai\PJ\PirmaUzduotis\PirmaUzduotis\obj\Debug\PirmaUzduotis.csproj.GenerateResource.Cache
